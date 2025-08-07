@@ -1,4 +1,4 @@
-## Hey team, I’m Beni! 👋  
+## Hello world, I’m Beni! 👋  
 Applied Computer Science student at Université de Moncton 🇨🇦  
 
 💡 I turn random ideas into C++ apps.  
