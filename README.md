@@ -2,7 +2,7 @@
 Applied Computer Science student at Université de Moncton 🇨🇦  
 
 💡 I turn random ideas into C++ apps.  
-🔧 Currently diving into Qt, QML, and MySQL to build smooth UIs and manage databases.
+🔧 Currently diving into Qt, QML, to build smooth UIs and manage databases with CSV files.
 
 🖥️ I started out strong in the terminal. Now I’m leveling up with dynamic and modern interfaces.  
 The goal here? **Grow together.**  
