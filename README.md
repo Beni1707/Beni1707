@@ -1,7 +1,9 @@
 ## Hello world, I’m Beni! 👋  
 Applied Computer Science student at Université de Moncton 🇨🇦  
 
-💡 Turning ideas into C++ applications. Currently expanding my skills by learning Python and JavaScript.
+Turning ideas into C++ applications. 
+Currently expanding my skills by learning Python and some DeepLearning Librairies as Pytorch and TensorFlow.
+Also diving in NUmpy and Pandas. 
 
 
 # 💻 Tech Stack:
